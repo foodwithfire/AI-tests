@@ -1,6 +1,5 @@
 import pygame
 
-
 window_size = (250, 400)
 screen = pygame.display.set_mode(window_size)
 scale = 50
